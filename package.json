@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.2.0",
     "@babel/register": "^7.0.0",
     "cron": "^1.6.0",
-    "nodemon": "^1.18.8",
+    "nodemon": "^1.19.4",
     "redis": "^2.8.0"
   }
 }
